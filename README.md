@@ -1,7 +1,6 @@
 # Mesoscopic (and microscopic) simulation of cortical microcircuit
 
-This simulation software is an update of the original simulation code in the repository [mesopopdyn_gif](https://github.com/schwalger/mesopopdyn_gif). The software simulates a cortical microcircuit based on the Potjans-Diesmann model.
-It is implemented in different languages, Python, Julia, C and NEST
+This software simulates a cortical microcircuit based on the Potjans-Diesmann model. It is implemented in different languages, Python, Julia, C and NEST. The C code represents an improved implementation of the original simulation code in the repository [mesopopdyn_gif](https://github.com/schwalger/mesopopdyn_gif).
 
 There are the following implementations:
 - Microscopic simulation (my custom C code)
